@@ -1,0 +1,1 @@
+@py.exe C:\Python\python_scripts\python_projects\open_local_weather.py %*
